@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Pixelify Sans', sans-serif;
+  margin-left:  20px;
+}
+
+.title {
+ font-size: 100px;
+ color: brown;
+}
+
+.fs-player{
+  font-size: 40px;
+}
+
+#player{
+  padding-left: 10px;
+}
+
+#bot{ 
+  padding-left: 10px;
+}
+
+.fs-computer{
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+#play{
+  font-size:  20px; 
+  color: blue;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.result{
+  font-size: 40px;
+  color:darkgoldenrod ;
+  padding-top: 10px;
+}
